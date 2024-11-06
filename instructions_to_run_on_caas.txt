@@ -1,0 +1,4 @@
+1. Upload project folder to CAAS (keeping the structure as it is)
+2. Paste the following and press enter: module load openmpi-4.1.4-gcc-11.2.0-6z47sq3
+3. Compile the code using: make ALL
+4. Submit the chosen job script: sbatch [name].job

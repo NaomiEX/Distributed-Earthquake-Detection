@@ -1,0 +1,914 @@
+-----------------------------------------------------------------------------------------
+Iteration: 4
+Logged time:                 Tue 2022-10-18 20:56:09
+Alert reported time:         Tue 2022-10-18 20:56:06
+Alert type: Inconclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+26(3,5)              (-14.54,168.25)                          5.66                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+19(2,5)              (-14.55,167.19)     114.218077           2.62                 3.032893       192.168.0.134(datascience)
+33(4,5)              (-14.53,167.31)     101.243336           7.03                 1.375508       192.168.0.134(datascience)
+25(3,4)              (-14.83,168.96)      82.269715           6.57                 0.912091       192.168.0.134(datascience)
+27(3,6)              (-14.25,167.55)      82.541828           3.87                 1.783703       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:08
+Balloon seismic reporting Coord: (-15.26,167.65)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 102.22
+Balloon seismic reporting Magnitude: 6.09
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.44
+
+Communication time (seconds): 1.685
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 6
+Logged time:                 Tue 2022-10-18 20:56:11
+Alert reported time:         Tue 2022-10-18 20:56:08
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+23(3,2)              (-15.01,168.12)                          6.18                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+16(2,2)              (-15.41,167.31)      97.974409           6.70                 0.526263       192.168.0.134(datascience)
+30(4,2)              (-15.39,167.43)      85.742644           5.37                 0.804530       192.168.0.134(datascience)
+22(3,1)              (-15.69,167.07)     135.290758           5.06                 1.113966       192.168.0.134(datascience)
+24(3,3)              (-15.12,167.66)      50.719051           4.56                 1.613146       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:08
+Balloon seismic reporting Coord: (-15.26,167.65)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 57.24
+Balloon seismic reporting Magnitude: 6.09
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.09
+
+Communication time (seconds): 1.697
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 9
+Logged time:                 Tue 2022-10-18 20:56:14
+Alert reported time:         Tue 2022-10-18 20:56:10
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+33(4,5)              (-14.81,168.17)                          6.00                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+26(3,5)              (-14.16,167.23)     124.492883           1.55                 4.453570       192.168.0.134(datascience)
+40(5,5)              (-14.87,167.04)     121.862326           3.93                 2.068072       192.168.0.134(datascience)
+32(4,4)              (-14.07,168.40)      85.570325           5.92                 0.082463       192.168.0.134(datascience)
+34(4,6)              (-14.57,168.83)      76.057085           4.90                 1.100924       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:12
+Balloon seismic reporting Coord: (-15.55,167.82)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 90.93
+Balloon seismic reporting Magnitude: 4.59
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.41
+
+Communication time (seconds): 2.701
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 10
+Logged time:                 Tue 2022-10-18 20:56:15
+Alert reported time:         Tue 2022-10-18 20:56:10
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+36(5,1)              (-15.02,167.49)                          6.38                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+29(4,1)              (-15.31,168.33)      95.953282           7.35                 0.970637       192.168.0.134(datascience)
+43(6,1)              (-14.02,168.14)     131.528088           5.83                 0.548048       192.168.0.134(datascience)
+35(5,0)              (-15.62,168.54)     130.370696           8.03                 1.647247       192.168.0.134(datascience)
+37(5,2)              (-15.72,167.94)      91.403045           6.05                 0.329288       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:08
+Balloon seismic reporting Coord: (-15.26,167.65)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 31.71
+Balloon seismic reporting Magnitude: 6.09
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.29
+
+Communication time (seconds): 3.701
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 11
+Logged time:                 Tue 2022-10-18 20:56:16
+Alert reported time:         Tue 2022-10-18 20:56:10
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+9(1,2)              (-15.12,167.63)                          6.26                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+2(0,2)              (-14.96,168.40)      85.355637           3.50                 2.759233       192.168.0.134(datascience)
+16(2,2)              (-15.66,168.22)      87.336896           6.25                 0.014253       192.168.0.134(datascience)
+8(1,1)              (-14.38,167.85)      85.664596           5.59                 0.672238       192.168.0.134(datascience)
+10(1,3)              (-15.36,168.01)      49.066545           8.64                 2.379648       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:08
+Balloon seismic reporting Coord: (-15.26,167.65)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 15.35
+Balloon seismic reporting Magnitude: 6.09
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.17
+
+Communication time (seconds): 4.697
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 13
+Logged time:                 Tue 2022-10-18 20:56:18
+Alert reported time:         Tue 2022-10-18 20:56:12
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+10(1,3)              (-15.35,168.02)                          7.95                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+3(0,3)              (-14.97,168.06)      43.012430           8.97                 1.022946       192.168.0.134(datascience)
+17(2,3)              (-15.74,167.99)      43.128718           6.88                 1.066582       192.168.0.134(datascience)
+9(1,2)              (-15.87,168.31)      65.444182           8.06                 0.106316       192.168.0.134(datascience)
+11(1,4)              (-14.84,167.73)      65.335045           7.84                 0.113504       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:13
+Balloon seismic reporting Coord: (-15.82,168.42)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 67.40
+Balloon seismic reporting Magnitude: 9.14
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.19
+
+Communication time (seconds): 4.686
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 14
+Logged time:                 Tue 2022-10-18 20:56:19
+Alert reported time:         Tue 2022-10-18 20:56:14
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+15(2,1)              (-15.82,168.30)                          3.61                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+8(1,1)              (-15.07,168.45)      84.691720           4.42                 0.814453       192.168.0.134(datascience)
+22(3,1)              (-15.16,168.54)      77.265437           5.47                 1.859279       192.168.0.134(datascience)
+14(2,0)              (-15.29,168.86)      83.908056           7.42                 3.816384       192.168.0.134(datascience)
+16(2,2)              (-14.26,168.28)     173.464828           7.08                 3.472426       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:06
+Balloon seismic reporting Coord: (-15.27,168.39)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 61.37
+Balloon seismic reporting Magnitude: 2.37
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.24
+
+Communication time (seconds): 3.698
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 15
+Logged time:                 Tue 2022-10-18 20:56:20
+Alert reported time:         Tue 2022-10-18 20:56:14
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+23(3,2)              (-14.96,167.85)                          7.44                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+16(2,2)              (-14.26,168.28)      90.674025           7.08                 0.357088       192.168.0.134(datascience)
+30(4,2)              (-15.03,168.21)      39.693748           6.71                 0.727504       192.168.0.134(datascience)
+22(3,1)              (-15.16,168.54)      77.112331           5.47                 1.970235       192.168.0.134(datascience)
+24(3,3)              (-14.13,167.95)      93.201154           8.60                 1.159213       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:15
+Balloon seismic reporting Coord: (-15.68,167.34)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 97.74
+Balloon seismic reporting Magnitude: 8.42
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.98
+
+Communication time (seconds): 4.698
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 16
+Logged time:                 Tue 2022-10-18 20:56:21
+Alert reported time:         Tue 2022-10-18 20:56:14
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+24(3,3)              (-15.35,167.54)                          6.12                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+17(2,3)              (-14.60,167.69)      84.678573           3.01                 3.110853       192.168.0.134(datascience)
+31(4,3)              (-14.10,167.40)     140.002862           2.89                 3.223498       192.168.0.134(datascience)
+23(3,2)              (-14.96,167.85)      54.655562           7.44                 1.320313       192.168.0.134(datascience)
+25(3,4)              (-15.74,167.24)      54.642355           7.22                 1.101322       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:16
+Balloon seismic reporting Coord: (-15.55,167.72)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 29.13
+Balloon seismic reporting Magnitude: 7.20
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.08
+
+Communication time (seconds): 5.694
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 17
+Logged time:                 Tue 2022-10-18 20:56:22
+Alert reported time:         Tue 2022-10-18 20:56:14
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+26(3,5)              (-14.13,168.93)                          5.00                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+19(2,5)              (-15.39,167.07)     243.181440           2.73                 2.271034       192.168.0.134(datascience)
+33(4,5)              (-14.88,168.78)      84.704339           6.34                 1.339137       192.168.0.134(datascience)
+25(3,4)              (-15.74,167.24)     255.085311           7.22                 2.217573       192.168.0.134(datascience)
+27(3,6)              (-14.53,168.62)      54.817533           4.18                 0.821163       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:20
+Balloon seismic reporting Coord: (-14.68,168.74)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 63.72
+Balloon seismic reporting Magnitude: 4.47
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.53
+
+Communication time (seconds): 6.686
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 18
+Logged time:                 Tue 2022-10-18 20:56:23
+Alert reported time:         Tue 2022-10-18 20:56:12
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+34(4,6)              (-14.96,167.05)                          5.70                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+27(3,6)              (-14.58,167.08)      43.121129           7.60                 1.904420       192.168.0.134(datascience)
+41(5,6)              (-15.35,167.01)      43.120577           4.84                 0.854523       192.168.0.134(datascience)
+33(4,5)              (-15.48,167.34)      65.230551           5.93                 0.229659       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:19
+Balloon seismic reporting Coord: (-15.25,167.64)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 71.46
+Balloon seismic reporting Magnitude: 6.39
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.69
+
+Communication time (seconds): 9.687
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 19
+Logged time:                 Tue 2022-10-18 20:56:24
+Alert reported time:         Tue 2022-10-18 20:56:14
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+37(5,2)              (-14.45,167.56)                          5.20                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+30(4,2)              (-15.03,168.21)      94.857899           6.71                 1.506812       192.168.0.134(datascience)
+44(6,2)              (-15.20,167.41)      84.699888           7.04                 1.842010       192.168.0.134(datascience)
+36(5,1)              (-14.06,167.86)      54.760612           6.64                 1.436882       192.168.0.134(datascience)
+38(5,3)              (-14.90,167.89)      60.642610           5.02                 0.180365       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:08
+Balloon seismic reporting Coord: (-15.26,167.65)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 89.71
+Balloon seismic reporting Magnitude: 6.09
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.89
+
+Communication time (seconds): 8.691
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 20
+Logged time:                 Tue 2022-10-18 20:56:25
+Alert reported time:         Tue 2022-10-18 20:56:14
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+38(5,3)              (-14.85,167.25)                          3.81                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+31(4,3)              (-14.10,167.40)      84.811465           2.89                 0.914374       192.168.0.134(datascience)
+45(6,3)              (-15.60,167.11)      84.675160           7.43                 3.619122       192.168.0.134(datascience)
+37(5,2)              (-14.45,167.56)      54.788633           5.20                 1.395121       192.168.0.134(datascience)
+39(5,4)              (-15.24,168.94)     187.044494           3.12                 0.688015       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:22
+Balloon seismic reporting Coord: (-14.22,167.88)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 97.14
+Balloon seismic reporting Magnitude: 5.71
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.91
+
+Communication time (seconds): 9.681
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 21
+Logged time:                 Tue 2022-10-18 20:56:26
+Alert reported time:         Tue 2022-10-18 20:56:14
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+2(0,2)              (-14.71,168.28)                          5.20                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+9(1,2)              (-15.46,168.14)      84.803395           5.43                 0.235271       192.168.0.134(datascience)
+1(0,1)              (-14.32,168.59)      54.713392           6.92                 1.716269       192.168.0.134(datascience)
+3(0,3)              (-15.10,167.98)      54.765372           5.22                 0.022398       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:17
+Balloon seismic reporting Coord: (-15.31,168.68)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 79.17
+Balloon seismic reporting Magnitude: 6.82
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.62
+
+Communication time (seconds): 10.691
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 22
+Logged time:                 Tue 2022-10-18 20:56:27
+Alert reported time:         Tue 2022-10-18 20:56:14
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+3(0,3)              (-15.10,167.98)                          5.22                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+10(1,3)              (-15.35,168.02)      28.269960           7.95                 2.729103       192.168.0.134(datascience)
+2(0,2)              (-15.48,168.35)      57.959194           5.48                 0.259665       192.168.0.134(datascience)
+4(0,4)              (-15.50,167.67)      54.727387           3.86                 1.366438       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:16
+Balloon seismic reporting Coord: (-15.55,167.72)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 57.13
+Balloon seismic reporting Magnitude: 7.20
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.98
+
+Communication time (seconds): 11.700
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 24
+Logged time:                 Tue 2022-10-18 20:56:29
+Alert reported time:         Tue 2022-10-18 20:56:16
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+19(2,5)              (-14.55,167.39)                          6.29                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+12(1,5)              (-14.29,167.46)      30.944266           4.43                 1.858975       192.168.0.134(datascience)
+26(3,5)              (-14.13,168.93)     172.144384           5.00                 1.287333       192.168.0.134(datascience)
+18(2,4)              (-14.52,168.83)     154.945040           6.67                 0.378973       192.168.0.134(datascience)
+20(2,6)              (-14.59,167.95)      60.605932           5.42                 0.872313       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:11
+Balloon seismic reporting Coord: (-14.05,167.55)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 59.15
+Balloon seismic reporting Magnitude: 7.41
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.12
+
+Communication time (seconds): 11.688
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 25
+Logged time:                 Tue 2022-10-18 20:56:30
+Alert reported time:         Tue 2022-10-18 20:56:18
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+44(6,2)              (-15.11,168.15)                          3.63                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+37(5,2)              (-15.25,167.50)      71.789160           4.46                 0.824869       192.168.0.134(datascience)
+43(6,1)              (-15.48,168.87)      86.748855           2.67                 0.961797       192.168.0.134(datascience)
+45(6,3)              (-15.56,167.99)      52.183322           5.32                 1.690506       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:20
+Balloon seismic reporting Coord: (-14.68,168.74)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 79.38
+Balloon seismic reporting Magnitude: 4.47
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.83
+
+Communication time (seconds): 10.700
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 26
+Logged time:                 Tue 2022-10-18 20:56:31
+Alert reported time:         Tue 2022-10-18 20:56:24
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+45(6,3)              (-15.39,168.01)                          4.89                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+38(5,3)              (-15.65,168.47)      57.446070           4.79                 0.100845       192.168.0.134(datascience)
+44(6,2)              (-15.74,168.99)     112.372243           1.19                 3.699677       192.168.0.134(datascience)
+46(6,4)              (-15.36,167.52)      52.443535           6.65                 1.762533       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:08
+Balloon seismic reporting Coord: (-15.26,167.65)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 40.76
+Balloon seismic reporting Magnitude: 6.09
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.21
+
+Communication time (seconds): 5.687
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 27
+Logged time:                 Tue 2022-10-18 20:56:32
+Alert reported time:         Tue 2022-10-18 20:56:16
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+2(0,2)              (-15.90,167.85)                          7.68                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+9(1,2)              (-14.17,167.78)     192.641014           2.78                 4.896723       192.168.0.134(datascience)
+1(0,1)              (-15.86,167.29)      60.120179           7.76                 0.089218       192.168.0.134(datascience)
+3(0,3)              (-15.94,168.41)      60.228382           7.10                 0.572417       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:13
+Balloon seismic reporting Coord: (-15.82,168.42)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 61.98
+Balloon seismic reporting Magnitude: 9.14
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.47
+
+Communication time (seconds): 14.692
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 29
+Logged time:                 Tue 2022-10-18 20:56:34
+Alert reported time:         Tue 2022-10-18 20:56:30
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+16(2,2)              (-14.74,168.60)                          2.63                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+9(1,2)              (-15.27,168.21)      72.814904           2.78                 0.153158       192.168.0.134(datascience)
+23(3,2)              (-15.68,167.96)     125.150131           8.23                 5.604437       192.168.0.134(datascience)
+15(2,1)              (-14.32,167.84)      94.729239           2.31                 0.321895       192.168.0.134(datascience)
+17(2,3)              (-15.16,167.37)     140.661677           3.52                 0.888912       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:20
+Balloon seismic reporting Coord: (-14.68,168.74)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 15.98
+Balloon seismic reporting Magnitude: 4.47
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.84
+
+Communication time (seconds): 2.701
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 30
+Logged time:                 Tue 2022-10-18 20:56:35
+Alert reported time:         Tue 2022-10-18 20:56:28
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+17(2,3)              (-15.65,167.56)                          5.88                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+10(1,3)              (-15.27,168.11)      72.187158           5.50                 0.379744       192.168.0.134(datascience)
+24(3,3)              (-15.92,168.33)      87.507456           6.84                 0.956356       192.168.0.134(datascience)
+16(2,2)              (-15.26,168.21)      81.175595           2.88                 2.999114       192.168.0.134(datascience)
+18(2,4)              (-15.93,168.24)      78.729096           7.23                 1.352990       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:12
+Balloon seismic reporting Coord: (-15.55,167.82)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 29.79
+Balloon seismic reporting Magnitude: 4.59
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.29
+
+Communication time (seconds): 5.705
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 31
+Logged time:                 Tue 2022-10-18 20:56:36
+Alert reported time:         Tue 2022-10-18 20:56:28
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+47(6,5)              (-15.05,167.13)                          5.06                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+40(5,5)              (-14.72,167.70)      70.925396           4.19                 0.866952       192.168.0.134(datascience)
+46(6,4)              (-15.21,168.67)     166.542879           3.55                 1.507816       192.168.0.134(datascience)
+48(6,6)              (-15.09,167.05)      10.216032           3.72                 1.343175       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:19
+Balloon seismic reporting Coord: (-15.25,167.64)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 59.60
+Balloon seismic reporting Magnitude: 6.39
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.33
+
+Communication time (seconds): 6.689
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 33
+Logged time:                 Tue 2022-10-18 20:56:38
+Alert reported time:         Tue 2022-10-18 20:56:32
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+33(4,5)              (-14.54,168.65)                          6.71                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+26(3,5)              (-14.94,168.26)      60.692888           8.34                 1.629554       192.168.0.134(datascience)
+40(5,5)              (-14.82,168.98)      47.042775           7.08                 0.368087       192.168.0.134(datascience)
+32(4,4)              (-14.38,168.69)      18.584563           6.05                 0.659523       192.168.0.134(datascience)
+34(4,6)              (-14.30,168.38)      39.172370           4.85                 1.859938       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:17
+Balloon seismic reporting Coord: (-15.31,168.68)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 85.58
+Balloon seismic reporting Magnitude: 6.82
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.11
+
+Communication time (seconds): 4.705
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 38
+Logged time:                 Tue 2022-10-18 20:56:43
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+7(1,0)              (-14.54,168.12)                          5.76                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+0(0,0)              (-14.48,168.08)       7.826748           5.88                 0.126002       192.168.0.134(datascience)
+14(2,0)              (-14.99,167.75)      63.879366           6.68                 0.925596       192.168.0.134(datascience)
+8(1,1)              (-14.83,167.26)      97.438260           3.72                 2.032448       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:11
+Balloon seismic reporting Coord: (-14.05,167.55)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 82.20
+Balloon seismic reporting Magnitude: 7.41
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.65
+
+Communication time (seconds): 1.701
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 39
+Logged time:                 Tue 2022-10-18 20:56:44
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+8(1,1)              (-14.83,167.26)                          3.72                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+1(0,1)              (-14.77,167.23)       7.921204           5.16                 1.434762       192.168.0.134(datascience)
+15(2,1)              (-14.90,167.30)       7.824175           1.86                 1.863315       192.168.0.134(datascience)
+7(1,0)              (-14.54,168.12)      97.438260           5.76                 2.032448       192.168.0.134(datascience)
+9(1,2)              (-15.15,168.50)     137.312482           6.67                 2.948736       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:07
+Balloon seismic reporting Coord: (-14.21,167.84)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 92.61
+Balloon seismic reporting Magnitude: 1.93
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.79
+
+Communication time (seconds): 2.701
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 40
+Logged time:                 Tue 2022-10-18 20:56:45
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+14(2,0)              (-14.60,168.15)                          7.27                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+7(1,0)              (-14.54,168.12)       7.923477           5.76                 1.508941       192.168.0.134(datascience)
+21(3,0)              (-14.67,168.18)       7.825845           7.65                 0.387858       192.168.0.134(datascience)
+15(2,1)              (-14.90,167.30)      97.376592           1.86                 5.404704       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:11
+Balloon seismic reporting Coord: (-14.05,167.55)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 89.59
+Balloon seismic reporting Magnitude: 7.41
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.14
+
+Communication time (seconds): 3.681
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 41
+Logged time:                 Tue 2022-10-18 20:56:46
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+16(2,2)              (-15.19,168.44)                          5.54                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+9(1,2)              (-15.15,168.50)       7.576932           6.67                 1.135692       192.168.0.134(datascience)
+23(3,2)              (-15.25,168.48)       7.820820           7.15                 1.612639       192.168.0.134(datascience)
+15(2,1)              (-14.90,167.30)     127.547861           1.86                 3.676359       192.168.0.134(datascience)
+17(2,3)              (-15.49,167.59)      97.138136           3.84                 1.699832       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:16
+Balloon seismic reporting Coord: (-15.55,167.72)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 87.66
+Balloon seismic reporting Magnitude: 7.20
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.66
+
+Communication time (seconds): 4.702
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 42
+Logged time:                 Tue 2022-10-18 20:56:47
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+18(2,4)              (-15.78,168.74)                          5.64                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+11(1,4)              (-15.72,168.71)       7.914963           3.80                 1.840865       192.168.0.134(datascience)
+25(3,4)              (-15.84,168.77)       7.817000           5.16                 0.481350       192.168.0.134(datascience)
+17(2,3)              (-15.49,167.59)     127.238408           3.84                 1.806509       192.168.0.134(datascience)
+19(2,5)              (-14.84,167.01)     213.563299           1.29                 4.354834       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:17
+Balloon seismic reporting Coord: (-15.31,168.68)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 52.61
+Balloon seismic reporting Magnitude: 6.82
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.17
+
+Communication time (seconds): 5.694
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 43
+Logged time:                 Tue 2022-10-18 20:56:48
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+19(2,5)              (-14.08,167.89)                          5.11                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+12(1,5)              (-14.01,167.85)       7.829798           7.72                 2.608759       192.168.0.134(datascience)
+26(3,5)              (-14.14,167.92)       7.926880           3.94                 1.166267       192.168.0.134(datascience)
+18(2,4)              (-15.78,168.74)     210.693356           5.64                 0.535131       192.168.0.134(datascience)
+20(2,6)              (-14.37,167.03)      97.618521           3.83                 1.282948       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:10
+Balloon seismic reporting Coord: (-14.78,167.35)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 97.50
+Balloon seismic reporting Magnitude: 6.97
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.86
+
+Communication time (seconds): 6.690
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 44
+Logged time:                 Tue 2022-10-18 20:56:49
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+21(3,0)              (-14.67,168.18)                          7.65                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+14(2,0)              (-14.60,168.15)       7.825845           7.27                 0.387858       192.168.0.134(datascience)
+28(4,0)              (-14.73,168.21)       7.922580           6.53                 1.120435       192.168.0.134(datascience)
+22(3,1)              (-14.96,167.33)      97.387928           4.58                 3.070877       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:11
+Balloon seismic reporting Coord: (-14.05,167.55)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 97.00
+Balloon seismic reporting Magnitude: 7.41
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.24
+
+Communication time (seconds): 7.681
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 45
+Logged time:                 Tue 2022-10-18 20:56:50
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+26(3,5)              (-14.14,167.92)                          3.94                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+19(2,5)              (-14.84,167.01)     125.244425           1.29                 2.653436       192.168.0.134(datascience)
+33(4,5)              (-14.20,167.95)       7.926157           2.11                 1.835339       192.168.0.134(datascience)
+25(3,4)              (-15.84,168.77)     210.583556           5.16                 1.220047       192.168.0.134(datascience)
+27(3,6)              (-14.43,167.07)      97.557616           5.54                 1.601532       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:22
+Balloon seismic reporting Coord: (-14.22,167.88)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 9.99
+Balloon seismic reporting Magnitude: 5.71
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.77
+
+Communication time (seconds): 8.691
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 46
+Logged time:                 Tue 2022-10-18 20:56:51
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+29(4,1)              (-15.02,167.36)                          3.86                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+22(3,1)              (-14.96,167.33)       7.920559           4.58                 0.721037       192.168.0.134(datascience)
+36(5,1)              (-15.09,167.39)       7.822687           5.44                 1.579513       192.168.0.134(datascience)
+28(4,0)              (-14.73,168.21)      97.362444           6.53                 2.671480       192.168.0.134(datascience)
+30(4,2)              (-15.32,168.51)     127.474495           7.59                 3.724707       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:12
+Balloon seismic reporting Coord: (-15.55,167.82)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 76.74
+Balloon seismic reporting Magnitude: 4.59
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.73
+
+Communication time (seconds): 9.660
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 47
+Logged time:                 Tue 2022-10-18 20:56:52
+Alert reported time:         Tue 2022-10-18 20:56:40
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+30(4,2)              (-15.32,168.51)                          7.59                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+23(3,2)              (-15.25,168.48)       8.015852           7.15                 0.436357       192.168.0.134(datascience)
+37(5,2)              (-15.38,168.54)       7.918035           6.37                 1.219530       192.168.0.134(datascience)
+29(4,1)              (-14.52,167.51)     138.906233           1.50                 6.087902       192.168.0.134(datascience)
+31(4,3)              (-15.61,167.66)      97.085294           0.64                 6.942085       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:37
+Balloon seismic reporting Coord: (-15.34,168.08)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 46.40
+Balloon seismic reporting Magnitude: 8.67
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.09
+
+Communication time (seconds): 10.673
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 49
+Logged time:                 Tue 2022-10-18 20:56:54
+Alert reported time:         Tue 2022-10-18 20:56:42
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+36(5,1)              (-15.13,167.82)                          5.36                                192.168.0.134(datascience)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+29(4,1)              (-15.02,167.36)      51.173311           3.86                 1.500421       192.168.0.134(datascience)
+43(6,1)              (-15.15,167.43)      42.843101           8.43                 3.070512       192.168.0.134(datascience)
+35(5,0)              (-14.79,168.25)      59.148846           4.04                 1.317869       192.168.0.134(datascience)
+37(5,2)              (-15.38,168.54)      81.803132           6.37                 1.004756       192.168.0.134(datascience)
+
+Balloon seismic reporting time:	Tue 2022-10-18 20:56:16
+Balloon seismic reporting Coord: (-15.55,167.72)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 47.72
+Balloon seismic reporting Magnitude: 7.20
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.84
+
+Communication time (seconds): 10.708
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Number of messages passed throughout the network when an alert is detected: 34
+Total Iterations: 50
+True Alerts: 33
+False Alerts: 1
+Total communication time (s): 225.541992

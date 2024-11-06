@@ -1,0 +1,16 @@
+#!/bin/bash 
+#SBATCH --job-name=5x13 ### name your job 
+#SBATCH --time=00:10:00		 ### hh:mm:ss or dd-hh:mm:ss
+#SBATCH --mem=16G				 ### memory setting is @ 0.5 GB per core
+#SBATCH --ntasks=66				 ### launch 21 mpi processes
+#SBATCH --cpus-per-task=2		 
+#SBATCH --ntasks-per-node=3    
+#SBATCH --output=5x13.%j.out
+#SBATCH --partition=defq
+
+module load openmpi-4.1.4-gcc-11.2.0-6z47sq3
+
+
+srun main_out 5 13 50 -caas
+
+exit 0

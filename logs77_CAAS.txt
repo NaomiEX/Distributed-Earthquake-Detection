@@ -1,0 +1,697 @@
+-----------------------------------------------------------------------------------------
+Iteration: 14
+Logged time:                 Tue 2022-10-18 23:03:43
+Alert reported time:         Tue 2022-10-18 23:03:37
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+8(1,1)              (-15.04,167.83)                          4.49                                172.23.169.12(student-caas-n02.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+1(0,1)              (-15.13,167.05)      84.423141           7.38                 2.899628       172.23.169.11(student-caas-n01.rep.monash.edu)
+15(2,1)              (-15.08,168.85)     109.251030           3.95                 0.539949       172.23.169.14(student-caas-n04.rep.monash.edu)
+7(1,0)              (-14.76,167.72)      32.571908           5.08                 0.590363       172.23.169.12(student-caas-n02.rep.monash.edu)
+9(1,2)              (-15.31,167.94)      32.565605           4.83                 0.343845       172.23.169.13(student-caas-n03.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:16
+Balloon seismic reporting Coord: (-14.87,167.28)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 62.69
+Balloon seismic reporting Magnitude: 6.12
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.64
+
+Communication time (seconds): 4.003
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 16
+Logged time:                 Tue 2022-10-18 23:03:47
+Alert reported time:         Tue 2022-10-18 23:03:39
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+21(3,0)              (-14.25,168.44)                          5.82                                172.23.169.15(student-caas-n05.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+14(2,0)              (-15.50,167.08)     202.561623           6.38                 0.565606       172.23.169.14(student-caas-n04.rep.monash.edu)
+28(4,0)              (-14.49,168.06)      48.969433           4.82                 0.998538       172.23.169.16(student-caas-n06.rep.monash.edu)
+22(3,1)              (-14.92,168.35)      75.968142           7.28                 1.463104       172.23.169.15(student-caas-n05.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:24
+Balloon seismic reporting Coord: (-14.54,168.98)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 67.19
+Balloon seismic reporting Magnitude: 4.99
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.83
+
+Communication time (seconds): 6.005
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 19
+Logged time:                 Tue 2022-10-18 23:03:53
+Alert reported time:         Tue 2022-10-18 23:03:49
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+17(2,3)              (-14.96,168.24)                          5.96                                172.23.169.14(student-caas-n04.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+10(1,3)              (-14.41,168.29)      61.801607           5.78                 0.174265       172.23.169.13(student-caas-n03.rep.monash.edu)
+24(3,3)              (-14.25,168.98)     112.872032           1.68                 4.273242       172.23.169.16(student-caas-n06.rep.monash.edu)
+16(2,2)              (-14.64,168.60)      52.924006           4.63                 1.324737       172.23.169.14(student-caas-n04.rep.monash.edu)
+18(2,4)              (-14.04,167.70)     117.509423           6.61                 0.651606       172.23.169.14(student-caas-n04.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:36
+Balloon seismic reporting Coord: (-14.67,168.19)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 32.15
+Balloon seismic reporting Magnitude: 7.13
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.17
+
+Communication time (seconds): 2.005
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 22
+Logged time:                 Tue 2022-10-18 23:03:59
+Alert reported time:         Tue 2022-10-18 23:03:49
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+5(0,5)              (-15.44,167.19)                          6.08                                172.23.169.12(student-caas-n02.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+12(1,5)              (-15.99,167.13)      61.798819           7.24                 1.153778       172.23.169.13(student-caas-n03.rep.monash.edu)
+4(0,4)              (-15.65,167.77)      66.180248           5.56                 0.524273       172.23.169.12(student-caas-n02.rep.monash.edu)
+6(0,6)              (-15.63,167.13)      22.540639           4.65                 1.436937       172.23.169.12(student-caas-n02.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:16
+Balloon seismic reporting Coord: (-14.87,167.28)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 64.01
+Balloon seismic reporting Magnitude: 6.12
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.04
+
+Communication time (seconds): 8.005
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 23
+Logged time:                 Tue 2022-10-18 23:04:01
+Alert reported time:         Tue 2022-10-18 23:03:49
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+9(1,2)              (-14.61,168.87)                          5.01                                172.23.169.13(student-caas-n03.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+2(0,2)              (-14.06,168.93)      61.694403           5.73                 0.720060       172.23.169.11(student-caas-n01.rep.monash.edu)
+16(2,2)              (-15.17,168.82)      61.800939           0.72                 4.294636       172.23.169.14(student-caas-n04.rep.monash.edu)
+8(1,1)              (-15.04,168.22)      84.061291           5.67                 0.661658       172.23.169.12(student-caas-n02.rep.monash.edu)
+10(1,3)              (-14.41,168.29)      66.461510           5.78                 0.770738       172.23.169.13(student-caas-n03.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:24
+Balloon seismic reporting Coord: (-14.54,168.98)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 14.25
+Balloon seismic reporting Magnitude: 4.99
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.02
+
+Communication time (seconds): 10.005
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 24
+Logged time:                 Tue 2022-10-18 23:04:03
+Alert reported time:         Tue 2022-10-18 23:03:51
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+9(1,2)              (-14.93,167.82)                          6.87                                172.23.169.13(student-caas-n03.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+2(0,2)              (-14.71,167.35)      56.152458           5.75                 1.121247       172.23.169.11(student-caas-n01.rep.monash.edu)
+16(2,2)              (-15.15,168.29)      56.199594           5.96                 0.909934       172.23.169.14(student-caas-n04.rep.monash.edu)
+8(1,1)              (-14.82,167.45)      41.456843           2.09                 4.774018       172.23.169.12(student-caas-n02.rep.monash.edu)
+10(1,3)              (-15.53,167.89)      67.460767           2.37                 4.496426       172.23.169.13(student-caas-n03.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:22
+Balloon seismic reporting Coord: (-14.22,167.89)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 79.09
+Balloon seismic reporting Magnitude: 5.66
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.21
+
+Communication time (seconds): 10.006
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 26
+Logged time:                 Tue 2022-10-18 23:04:07
+Alert reported time:         Tue 2022-10-18 23:03:53
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+13(1,6)              (-15.41,167.98)                          3.96                                172.23.169.13(student-caas-n03.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+6(0,6)              (-15.12,167.62)      50.334481           4.97                 1.014061       172.23.169.12(student-caas-n02.rep.monash.edu)
+20(2,6)              (-15.56,168.56)      64.451245           3.73                 0.231435       172.23.169.15(student-caas-n05.rep.monash.edu)
+12(1,5)              (-14.74,168.02)      75.302568           8.38                 4.425115       172.23.169.13(student-caas-n03.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:05
+Balloon seismic reporting Coord: (-15.25,167.57)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 47.08
+Balloon seismic reporting Magnitude: 3.45
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.50
+
+Communication time (seconds): 12.006
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 27
+Logged time:                 Tue 2022-10-18 23:04:09
+Alert reported time:         Tue 2022-10-18 23:03:51
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+18(2,4)              (-14.35,168.43)                          4.69                                172.23.169.14(student-caas-n04.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+11(1,4)              (-14.14,167.95)      56.319203           5.03                 0.342202       172.23.169.13(student-caas-n03.rep.monash.edu)
+25(3,4)              (-15.31,167.61)     137.805601           6.51                 1.823726       172.23.169.16(student-caas-n06.rep.monash.edu)
+17(2,3)              (-15.75,168.36)     155.569540           1.18                 3.511562       172.23.169.14(student-caas-n04.rep.monash.edu)
+19(2,5)              (-14.95,168.49)      67.366089           6.36                 1.673433       172.23.169.15(student-caas-n05.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:23
+Balloon seismic reporting Coord: (-14.51,168.04)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 45.32
+Balloon seismic reporting Magnitude: 3.58
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.11
+
+Communication time (seconds): 16.005
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 28
+Logged time:                 Tue 2022-10-18 23:04:11
+Alert reported time:         Tue 2022-10-18 23:03:57
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+41(5,6)              (-14.71,168.24)                          6.48                                172.23.169.19(student-caas-n09.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+34(4,6)              (-14.04,167.93)      81.494825           2.29                 4.181863       172.23.169.18(student-caas-n08.rep.monash.edu)
+48(6,6)              (-14.06,168.05)      75.250811           5.00                 1.477391       172.23.169.20(student-caas-n10.rep.monash.edu)
+40(5,5)              (-15.20,168.25)      54.408454           6.27                 0.201381       172.23.169.19(student-caas-n09.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:25
+Balloon seismic reporting Coord: (-14.58,167.96)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 34.18
+Balloon seismic reporting Magnitude: 4.75
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.72
+
+Communication time (seconds): 12.006
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 30
+Logged time:                 Tue 2022-10-18 23:04:15
+Alert reported time:         Tue 2022-10-18 23:04:09
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+18(2,4)              (-15.64,167.44)                          5.00                                172.23.169.14(student-caas-n04.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+11(1,4)              (-15.36,167.08)      49.827080           4.92                 0.075169       172.23.169.13(student-caas-n03.rep.monash.edu)
+25(3,4)              (-15.02,168.45)     128.429190           5.14                 0.145583       172.23.169.16(student-caas-n06.rep.monash.edu)
+17(2,3)              (-15.60,167.96)      55.869253           3.15                 1.848033       172.23.169.14(student-caas-n04.rep.monash.edu)
+19(2,5)              (-15.68,168.92)     158.596468           8.65                 3.650217       172.23.169.15(student-caas-n05.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:46
+Balloon seismic reporting Coord: (-15.78,167.60)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 22.55
+Balloon seismic reporting Magnitude: 3.54
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.45
+
+Communication time (seconds): 4.006
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 31
+Logged time:                 Tue 2022-10-18 23:04:17
+Alert reported time:         Tue 2022-10-18 23:03:57
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+19(2,5)              (-14.75,167.71)                          5.32                                172.23.169.15(student-caas-n05.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+12(1,5)              (-15.40,167.90)      75.099084           5.28                 0.037858       172.23.169.13(student-caas-n03.rep.monash.edu)
+26(3,5)              (-15.83,167.51)     122.282902           2.61                 2.709122       172.23.169.16(student-caas-n06.rep.monash.edu)
+18(2,4)              (-15.62,167.09)     117.701262           3.79                 1.531384       172.23.169.14(student-caas-n04.rep.monash.edu)
+20(2,6)              (-14.67,167.19)      56.285812           7.02                 1.706041       172.23.169.15(student-caas-n05.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:05
+Balloon seismic reporting Coord: (-15.25,167.57)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 57.25
+Balloon seismic reporting Magnitude: 3.45
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.86
+
+Communication time (seconds): 18.007
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 32
+Logged time:                 Tue 2022-10-18 23:04:19
+Alert reported time:         Tue 2022-10-18 23:04:01
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+23(3,2)              (-15.45,167.87)                          5.36                                172.23.169.15(student-caas-n05.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+16(2,2)              (-15.59,167.19)      74.881222           6.34                 0.981581       172.23.169.14(student-caas-n04.rep.monash.edu)
+30(4,2)              (-15.31,168.55)      74.927434           4.74                 0.612579       172.23.169.17(student-caas-n07.rep.monash.edu)
+22(3,1)              (-15.18,168.91)     115.922696           6.68                 1.322495       172.23.169.15(student-caas-n05.rep.monash.edu)
+24(3,3)              (-15.34,168.26)      44.076088           6.53                 1.179746       172.23.169.16(student-caas-n06.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:05
+Balloon seismic reporting Coord: (-15.25,167.57)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 38.78
+Balloon seismic reporting Magnitude: 3.45
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.90
+
+Communication time (seconds): 16.006
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 33
+Logged time:                 Tue 2022-10-18 23:04:21
+Alert reported time:         Tue 2022-10-18 23:03:55
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+29(4,1)              (-15.41,167.67)                          4.35                                172.23.169.17(student-caas-n07.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+22(3,1)              (-15.73,167.30)      52.918330           8.48                 4.123875       172.23.169.15(student-caas-n05.rep.monash.edu)
+36(5,1)              (-15.09,168.04)      52.964411           2.93                 1.425310       172.23.169.18(student-caas-n08.rep.monash.edu)
+28(4,0)              (-14.88,167.61)      58.878035           4.56                 0.209787       172.23.169.16(student-caas-n06.rep.monash.edu)
+30(4,2)              (-15.94,167.72)      58.758581           5.81                 1.456731       172.23.169.17(student-caas-n07.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:17
+Balloon seismic reporting Coord: (-15.69,167.75)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 31.94
+Balloon seismic reporting Magnitude: 3.96
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.40
+
+Communication time (seconds): 24.006
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 35
+Logged time:                 Tue 2022-10-18 23:04:25
+Alert reported time:         Tue 2022-10-18 23:04:09
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+36(5,1)              (-14.37,168.09)                          3.86                                172.23.169.18(student-caas-n08.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+29(4,1)              (-14.51,167.42)      74.147612           0.96                 2.898580       172.23.169.17(student-caas-n07.rep.monash.edu)
+43(6,1)              (-14.75,167.80)      52.469420           4.84                 0.977569       172.23.169.19(student-caas-n09.rep.monash.edu)
+35(5,0)              (-14.33,168.61)      56.096383           3.34                 0.518085       172.23.169.18(student-caas-n08.rep.monash.edu)
+37(5,2)              (-15.50,167.35)     149.292001           8.12                 4.266340       172.23.169.18(student-caas-n08.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:03:40
+Balloon seismic reporting Coord: (-14.65,167.44)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 76.27
+Balloon seismic reporting Magnitude: 2.47
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.39
+
+Communication time (seconds): 14.008
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 36
+Logged time:                 Tue 2022-10-18 23:04:27
+Alert reported time:         Tue 2022-10-18 23:04:07
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+43(6,1)              (-14.75,167.80)                          4.84                                172.23.169.19(student-caas-n09.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+36(5,1)              (-15.63,167.61)     100.391275           2.94                 1.897687       172.23.169.18(student-caas-n08.rep.monash.edu)
+42(6,0)              (-14.84,167.14)      71.562574           6.29                 1.457520       172.23.169.19(student-caas-n09.rep.monash.edu)
+44(6,2)              (-14.62,167.54)      31.137749           6.29                 1.457203       172.23.169.20(student-caas-n10.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:08
+Balloon seismic reporting Coord: (-15.09,167.67)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 40.45
+Balloon seismic reporting Magnitude: 3.15
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.69
+
+Communication time (seconds): 18.008
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 37
+Logged time:                 Tue 2022-10-18 23:04:29
+Alert reported time:         Tue 2022-10-18 23:04:11
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+44(6,2)              (-14.83,167.88)                          8.26                                172.23.169.20(student-caas-n10.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+37(5,2)              (-14.40,167.57)      58.063539           6.89                 1.369799       172.23.169.18(student-caas-n08.rep.monash.edu)
+43(6,1)              (-14.65,168.45)      64.789101           7.67                 0.598402       172.23.169.19(student-caas-n09.rep.monash.edu)
+45(6,3)              (-14.73,167.41)      51.724380           3.45                 4.818927       172.23.169.20(student-caas-n10.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:20
+Balloon seismic reporting Coord: (-14.63,168.08)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 31.01
+Balloon seismic reporting Magnitude: 7.86
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.41
+
+Communication time (seconds): 16.008
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 38
+Logged time:                 Tue 2022-10-18 23:04:31
+Alert reported time:         Tue 2022-10-18 23:04:15
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+45(6,3)              (-14.49,167.66)                          6.41                                172.23.169.20(student-caas-n10.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+38(5,3)              (-14.40,167.49)      20.665326           7.58                 1.169759       172.23.169.18(student-caas-n08.rep.monash.edu)
+44(6,2)              (-14.98,168.29)      86.895060           6.93                 0.514886       172.23.169.20(student-caas-n10.rep.monash.edu)
+46(6,4)              (-14.62,168.28)      68.936317           5.60                 0.814112       172.23.169.20(student-caas-n10.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:20
+Balloon seismic reporting Coord: (-14.63,168.08)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 47.79
+Balloon seismic reporting Magnitude: 7.86
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.44
+
+Communication time (seconds): 14.008
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 39
+Logged time:                 Tue 2022-10-18 23:04:33
+Alert reported time:         Tue 2022-10-18 23:04:17
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+43(6,1)              (-15.48,167.80)                          4.48                                172.23.169.19(student-caas-n09.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+36(5,1)              (-15.42,168.31)      55.550233           4.48                 0.007240       172.23.169.18(student-caas-n08.rep.monash.edu)
+42(6,0)              (-15.94,167.56)      57.580034           5.13                 0.656762       172.23.169.19(student-caas-n09.rep.monash.edu)
+44(6,2)              (-14.91,168.87)     130.842303           6.89                 2.411118       172.23.169.20(student-caas-n10.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:17
+Balloon seismic reporting Coord: (-15.69,167.75)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 23.95
+Balloon seismic reporting Magnitude: 3.96
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.52
+
+Communication time (seconds): 14.008
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 41
+Logged time:                 Tue 2022-10-18 23:04:37
+Alert reported time:         Tue 2022-10-18 23:04:19
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+4(0,4)              (-15.45,168.18)                          3.85                                172.23.169.12(student-caas-n02.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+11(1,4)              (-15.52,167.58)      64.951966           2.60                 1.250630       172.23.169.13(student-caas-n03.rep.monash.edu)
+3(0,3)              (-15.90,167.96)      54.908382           3.74                 0.111581       172.23.169.11(student-caas-n01.rep.monash.edu)
+5(0,5)              (-14.90,167.17)     125.046677           3.11                 0.744498       172.23.169.12(student-caas-n02.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:17
+Balloon seismic reporting Coord: (-15.69,167.75)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 53.78
+Balloon seismic reporting Magnitude: 3.96
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.11
+
+Communication time (seconds): 16.008
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 42
+Logged time:                 Tue 2022-10-18 23:04:39
+Alert reported time:         Tue 2022-10-18 23:04:33
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+9(1,2)              (-14.71,168.29)                          6.45                                172.23.169.13(student-caas-n03.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+2(0,2)              (-14.15,167.85)      78.810055           7.97                 1.526591       172.23.169.11(student-caas-n01.rep.monash.edu)
+16(2,2)              (-15.28,168.73)      78.948972           7.38                 0.937228       172.23.169.14(student-caas-n04.rep.monash.edu)
+8(1,1)              (-14.92,167.94)      43.894207           5.26                 1.189884       172.23.169.12(student-caas-n02.rep.monash.edu)
+10(1,3)              (-14.51,168.64)      43.957798           7.05                 0.606616       172.23.169.13(student-caas-n03.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:16
+Balloon seismic reporting Coord: (-14.19,168.27)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 58.66
+Balloon seismic reporting Magnitude: 6.39
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.05
+
+Communication time (seconds): 4.008
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 43
+Logged time:                 Tue 2022-10-18 23:04:41
+Alert reported time:         Tue 2022-10-18 23:04:21
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+20(2,6)              (-15.19,167.58)                          4.05                                172.23.169.15(student-caas-n05.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+13(1,6)              (-15.44,168.16)      68.212660           4.11                 0.059897       172.23.169.13(student-caas-n03.rep.monash.edu)
+27(3,6)              (-15.21,167.23)      37.673799           1.79                 2.256175       172.23.169.16(student-caas-n06.rep.monash.edu)
+19(2,5)              (-14.77,167.48)      47.713219           3.67                 0.375171       172.23.169.15(student-caas-n05.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:05
+Balloon seismic reporting Coord: (-15.25,167.57)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 6.99
+Balloon seismic reporting Magnitude: 3.45
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.59
+
+Communication time (seconds): 18.009
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 44
+Logged time:                 Tue 2022-10-18 23:04:43
+Alert reported time:         Tue 2022-10-18 23:04:17
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+26(3,5)              (-15.06,167.62)                          6.63                                172.23.169.16(student-caas-n06.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+19(2,5)              (-15.01,168.14)      55.775032           8.00                 1.370288       172.23.169.15(student-caas-n05.rep.monash.edu)
+33(4,5)              (-15.11,167.10)      55.749405           7.15                 0.521396       172.23.169.17(student-caas-n07.rep.monash.edu)
+25(3,4)              (-15.62,168.55)     117.869317           5.23                 1.397485       172.23.169.16(student-caas-n06.rep.monash.edu)
+27(3,6)              (-14.50,168.69)     131.038260           6.56                 0.066084       172.23.169.16(student-caas-n06.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:13
+Balloon seismic reporting Coord: (-15.47,167.24)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 60.43
+Balloon seismic reporting Magnitude: 8.57
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.94
+
+Communication time (seconds): 24.007
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 45
+Logged time:                 Tue 2022-10-18 23:04:45
+Alert reported time:         Tue 2022-10-18 23:04:33
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+26(3,5)              (-15.23,168.22)                          5.04                                172.23.169.16(student-caas-n06.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+19(2,5)              (-14.66,167.78)      78.742228           6.19                 1.153029       172.23.169.15(student-caas-n05.rep.monash.edu)
+33(4,5)              (-15.79,168.67)      78.791852           3.63                 1.404038       172.23.169.17(student-caas-n07.rep.monash.edu)
+25(3,4)              (-15.43,167.88)      43.816967           5.44                 0.398350       172.23.169.16(student-caas-n06.rep.monash.edu)
+27(3,6)              (-15.02,168.57)      43.937580           4.94                 0.097402       172.23.169.16(student-caas-n06.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:17
+Balloon seismic reporting Coord: (-15.69,167.75)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 72.39
+Balloon seismic reporting Magnitude: 3.96
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.08
+
+Communication time (seconds): 10.006
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 47
+Logged time:                 Tue 2022-10-18 23:04:49
+Alert reported time:         Tue 2022-10-18 23:04:35
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+33(4,5)              (-14.84,168.78)                          5.84                                172.23.169.17(student-caas-n07.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+26(3,5)              (-15.23,168.22)      74.133227           5.04                 0.799781       172.23.169.16(student-caas-n06.rep.monash.edu)
+40(5,5)              (-14.35,167.11)     187.598719           3.51                 2.330309       172.23.169.19(student-caas-n09.rep.monash.edu)
+32(4,4)              (-15.15,168.68)      36.918880           5.30                 0.536029       172.23.169.17(student-caas-n07.rep.monash.edu)
+34(4,6)              (-15.58,167.02)     206.933161           2.60                 3.239959       172.23.169.18(student-caas-n08.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:26
+Balloon seismic reporting Coord: (-15.18,168.90)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 40.63
+Balloon seismic reporting Magnitude: 5.47
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.37
+
+Communication time (seconds): 12.009
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 48
+Logged time:                 Tue 2022-10-18 23:04:51
+Alert reported time:         Tue 2022-10-18 23:04:25
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+37(5,2)              (-15.81,168.50)                          5.07                                172.23.169.18(student-caas-n08.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+30(4,2)              (-15.69,168.47)      13.762284           6.13                 1.059319       172.23.169.17(student-caas-n07.rep.monash.edu)
+44(6,2)              (-15.93,168.53)      13.867294           3.35                 1.712161       172.23.169.20(student-caas-n10.rep.monash.edu)
+36(5,1)              (-14.36,168.78)     163.549429           5.23                 0.163465       172.23.169.18(student-caas-n08.rep.monash.edu)
+38(5,3)              (-15.25,168.22)      68.509237           3.19                 1.875510       172.23.169.18(student-caas-n08.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:45
+Balloon seismic reporting Coord: (-15.82,167.95)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 59.02
+Balloon seismic reporting Magnitude: 3.22
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 1.85
+
+Communication time (seconds): 24.009
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Iteration: 49
+Logged time:                 Tue 2022-10-18 23:04:53
+Alert reported time:         Tue 2022-10-18 23:04:37
+Alert type: Conclusive
+
+Reporting Node      Seismic Coord                            Magnitude                               IPv4
+47(6,5)              (-14.27,168.13)                          4.63                                172.23.169.20(student-caas-n10.rep.monash.edu)
+Adjacent Node       Seismic Coord       Diff(Coord, km)     Magnitude           Diff(Mag)           IPv4                
+40(5,5)              (-14.63,167.51)      77.590072           3.76                 0.874136       172.23.169.19(student-caas-n09.rep.monash.edu)
+46(6,4)              (-14.73,168.13)      51.217835           5.39                 0.761327       172.23.169.20(student-caas-n10.rep.monash.edu)
+48(6,6)              (-14.10,168.34)      29.670166           6.60                 1.967749       172.23.169.20(student-caas-n10.rep.monash.edu)
+
+Balloon seismic reporting time:	Tue 2022-10-18 23:04:28
+Balloon seismic reporting Coord: (-14.43,168.34)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 28.66
+Balloon seismic reporting Magnitude: 4.62
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.01
+
+Communication time (seconds): 14.009
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km):  100
+Magnitude difference threshold: 2
+Earthquake magnitude threshold: 2.50
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Number of messages passed throughout the network when an alert is detected: 26
+Total Iterations: 50
+True Alerts: 26
+False Alerts: 0
+Total communication time (s): 340.175995
