@@ -4,13 +4,18 @@
 
 The architecture of the WSN is shown in the image below wherein seismic sensors are geographically distributed in an $n\times n$ cartesian grid layout.
 
-![Picture of Architecture](imgs/architecture.JPG)
+<p align="center">
+<img src="imgs/architecture.JPG" alt="Picture of Architecture" width="600"/>
+</p>
 
 To counter against false positives, when a single sensor detects a potential earthquake it requests readings from neighboring sensors (top, down, left, right sensors within the grid). If all nearby sensors also detect a potential earthquake within a certain (latitude, longitude) from each other with similar magnitude, only then will a message be sent back to the base station which then double checks the readings of a balloon seismic sensor. If the report and the aerial seismology results match within a certain threshold, the earthquake is confirmed and is logged by the base station with as much as detail as possible (the time, estimated location, and all sensor readings associated with the detected earthquake). This monitoring continues endlessly until the user manually ceases its operation.
 
-The technical implementation of this distributed architecture is illustrated in the diagram below
+The technical implementation of this distributed architecture is illustrated in the diagram below:
 
-![Technical Architecture](imgs/architecture_threads_white.png)
+<p align="center">
+<img src="imgs/architecture_threads_white.png" alt="Technical Architecture" width="800"/>
+</p>
+
 
 ## Seafloor Seismic Sensors
 
@@ -20,7 +25,9 @@ Within the Cartesian topology, each node obtains their rank as well as their nei
 
 Each node then spawns a thread to handle communication with adjacent nodes and enters a loop which repeats until they are killed off by the Base station. The flowcharts below illustrate the operations of interest which occurs during the loop for the main sensor node and the spawned neighbor communicator thread:
 
-![flowchart](imgs/main_sensor_and_neighbor_comm.png)
+<p align="center">
+<img src="imgs/main_sensor_and_neighbor_comm.png" alt="Main Process Flowchart" width="600"/>
+</p>
 
 As you can see, the two threads have distinct responsibilities:
 - Main sensor
@@ -41,7 +48,9 @@ We achieve this by strictly using non-blocking functions: `MPI_Isend`, `MPI_Irec
 
 This lock exists to prevent sensor readings from the previous iteration to be overwritten, if those readings indicated a potential earthquake, while the thread is *still* collecting neighbor readings, it may cause mismatch during comparison. See the figure below which illustrates a scenario wherein there is a delay in obtaining neighbor readings and, if no mutex lock is implemented, once the readings have been collected the original reporting node's readings have been overwritten.
 
-![Lost readings during message passing](imgs/mutex_lock_requirements_white.png)
+<p align="center">
+<img src="imgs/mutex_lock_requirements_white.png" alt="Lost readings during message passing" width="800"/>
+</p>
 
 #### `check_requests`
 
@@ -73,8 +82,10 @@ while(!complete && alive) {
 - It checks whether it is alive to ensure that the node does not get stuck waiting for a response from a dead node
 - `check_requests()` prevents deadlock condition by checking for any incoming request signals and fulfilling them
 - `MPI_Testall` is used to perform a non-blocking check on whether the non-blocking messages have been completed. `MPI_Waitall` is not used here because of the possibility of a deadlock as illustrated in the figure below where every adjacent node is requesting from each other.
-
-![deadlock](imgs/deadlock_white.png)
+- 
+<p align="center">
+<img src="imgs/deadlock_white.png" alt="Deadlock" width="600" class="center"/>
+</p>
 
 ## Base Station
 
@@ -89,7 +100,9 @@ Before entering its main loop, the base station:
 - Spawns a thread (balloon seismic sensor)
 During the main loop, its processes are illustrated with the flowchart below:
 
-![base flowchart](imgs/main_process_white.png)
+<p align="center">
+<img src="imgs/main_process_white.png" alt="Deadlock" width="300" class="center"/>
+</p>
 
 As you can see, the base station periodically (every 1s) performs a non-blocking check with `MPI_Iprobe` and if there is an incoming message from a sensor node, i.e. an alert, then it proceeds to compare the reporting node’s readings with the readings of the balloon sensor. If it matches, a conclusive report is logged otherwise an inconclusive one is reported.
 
@@ -101,7 +114,9 @@ The balloon seismic sensor is a spawned POSIX thread from the base station node 
 
 It shares a global array with the base station and it performs the majority of its operations within a loop which is illustrated in the flowchart below:
 
-![ballon sensor flowchart](imgs/balloon_sensor_white.png)
+<p align="center">
+<img src="imgs/balloon_sensor_white.png" alt="Balloon Sensor Flowchart" width="300" class="center"/>
+</p>
 
 As you can see its main responsibility is periodically generating sensor readings and writing them to the shared array.
 
@@ -118,8 +133,12 @@ Since the balloon writes to the shared array and the base station reads from the
 
 If we increase the dimensions of the cartesian grid, the higher the probability of a report occurring which we do observe as shown in the graph below:
 
-![Reports vs Node Count](imgs/report_num.JPG)
+<p align="center">
+<img src="imgs/report_num.JPG" alt="Reports vs Node Count" width="400" class="center"/>
+</p>
 
 Of course as the number of nodes increased, the more message passing occurs and the more time is spent communicating. However, due to the efficient asynchronous message passing design, the increase in communication time is relatively small (take for example from 15->20, an increase of 5 nodes only adds 3 seconds to total communication time for 50 iterations.) 
 
-![Communication Time vs Node Count](imgs/comm_time.JPG)
+<p align="center">
+<img src="imgs/comm_time.JPG" alt="Communication Time vs Node Count" width="400" class="center"/>
+</p>
