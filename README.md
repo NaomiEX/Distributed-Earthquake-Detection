@@ -5,7 +5,7 @@
 The architecture of the WSN is shown in the image below wherein seismic sensors are geographically distributed in an $n\times n$ cartesian grid layout.
 
 <p align="center">
-<img src="imgs/architecture.JPG" alt="Picture of Architecture" width="600"/>
+<img src="imgs/architecture.png" alt="Picture of Architecture" width="600"/>
 </p>
 
 To counter against false positives, when a single sensor detects a potential earthquake it requests readings from neighboring sensors (top, down, left, right sensors within the grid). If all nearby sensors also detect a potential earthquake within a certain (latitude, longitude) from each other with similar magnitude, only then will a message be sent back to the base station which then double checks the readings of a balloon seismic sensor. If the report and the aerial seismology results match within a certain threshold, the earthquake is confirmed and is logged by the base station with as much as detail as possible (the time, estimated location, and all sensor readings associated with the detected earthquake). This monitoring continues endlessly until the user manually ceases its operation.
